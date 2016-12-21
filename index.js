@@ -1,8 +1,8 @@
-'use strict';
+'use strict'
 
-var mote = require('mote');
+var mote = require('mote')
 
-exports.name = 'mote';
-exports.outputFormat = 'html';
+exports.name = 'mote'
+exports.outputFormat = 'html'
 
-exports.compile = mote.compile;
+exports.compile = mote.compile
