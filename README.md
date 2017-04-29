@@ -1,5 +1,7 @@
 # jstransformer-mote
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-mote.svg)](https://greenkeeper.io/)
+
 [Mote.js](https://github.com/satchmorun/mote) support for [JSTransformer](https://github.com/jstransformers/jstransformer).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-mote/master.svg)](https://travis-ci.org/jstransformers/jstransformer-mote)
