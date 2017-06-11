@@ -1,6 +1,6 @@
 'use strict'
 
-var mote = require('mote')
+const mote = require('mote')
 
 exports.name = 'mote'
 exports.outputFormat = 'html'
