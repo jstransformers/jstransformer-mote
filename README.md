@@ -15,7 +15,7 @@
 ## API
 
 ```js
-var mote = require('jstransformer')(require('jstransformer-mote'));
+var mote = require('jstransformer')(require('jstransformer-mote'))
 
 mote.render('Hello, {{name}}!', { name: 'World' }).body
 //=> 'Hello, World!'
